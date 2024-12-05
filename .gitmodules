@@ -1,0 +1,3 @@
+[submodule "desk-master-front"]
+	path = desk-master-front
+	url = https://github.com/feiticeiro-tec/desk-master-front.git
