@@ -34,3 +34,17 @@ Facilitar e conciliar o desenvolvimento de gestão de projetos, melhorando o Wor
 - [ ] Envio de Email para os envolvidos os StackHolders
 - [ ] Rank de Qualidade de codigo para cada desenvolvedor no projeto
 - [ ] Geração conologica das tarefas realizadas como relatorio de release
+
+## Prototipo
+Telas desenvolvida no Figma, para guiar na implementação em codigo.
+### Pessoas
+Gerenciamento de informações de pessoas, como, empresa na qual faz parte, idade, qual a função, telefone e email, entre outras informações que pode ser colocado livremente quando nescessario
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Pessoas.png"/>
+
+### Organizações
+Tem como ideia poder organizar as informações de uma empresa na qual o usuario estiver lidando, como oque ela faz, qual o setor e qualquer outra informação que achar relevante, tambem realizando os vinculos de pessoas a essas mesmas empresas, criando um ecosistema de contatos.
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Organizacao.png">
+
+### Projetos
+Listagem dos Projetos realizado, podendo buscar por nome ou organização, tendo acesso rapidos como a pagina na qual o projeto está online, GitHub ou ClickUp, tambem tem uma preve descrição gerada por IA sobre oque é o projeto.
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Projetos.png"/>
