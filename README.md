@@ -1,50 +1,55 @@
 # Desk Master
-<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/Logo.png"/>
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/Logo.png" alt="Logo Desk Master"/>
 
-Aplicação de gestão de projetos integrado com IA, OneDrive, ClickUp e GitHub.
+**Desk Master** é uma aplicação de gestão de projetos integrada com IA, OneDrive, ClickUp e GitHub.
 
 ## Objetivo
-O principal objetivo é facilitar a gestão de projeto, referente a documentação e informação, tambem realizando automações entre o gerenciador de tarefas "ClickUp" e o "GitHub", obtendo uma melhor comunicação entre a gestão e desenvolvimento.
+O objetivo principal do **Desk Master** é simplificar a gestão de projetos, centralizando informações e documentação, enquanto automatiza processos entre o ClickUp e o GitHub. Dessa forma, promove uma melhor comunicação entre as equipes de gestão e desenvolvimento.
 
 ## Idealização
-Facilitar e conciliar o desenvolvimento de gestão de projetos, melhorando o WorkFlow e desempenho
+A aplicação foi idealizada para melhorar o **workflow** de projetos, conciliando gestão e desenvolvimento, e otimizando o desempenho das equipes.
 
-### Beneficio
-- Gerencimento de WorkFlow
-- Rotatividade da pessoa responsavel por realizar a review do coleguinha
-- Gestão automaticas de branch para tarefas
-- Organização das informações dos stackholders
-- Coleta de Feedback do projeto realizado
-- Relatorio de Releases
+### Benefícios
+- Gerenciamento eficaz do **workflow**.
+- Rotatividade automática de revisores nas tarefas.
+- Automação na criação e gestão de branches para tarefas.
+- Organização de informações de stakeholders.
+- Coleta de feedback sobre os projetos realizados.
+- Geração de relatórios de **releases**.
 
 ### Desafios
-- Economia de RAM e GPU no momento de ultilizar a IA
-- Simplificar o uso geral
+- Garantir economia de recursos (RAM e GPU) durante o uso da IA.
+- Tornar o sistema simples e acessível para todos os usuários.
+
+---
 
 ## Features
-- [ ] Criação de Issues no GitHub com base nas tarefas no ClickUp
-- [ ] Troca de status de tarefas no ClickUp quando a Issues for fechada
-- [ ] Seleção de membro da equipe selegido para revisar a tarefas ao ser finalizada
-- [ ] Previsão de Pontos de Sprint
-- [ ] Formulario de Satifação com as entregas do projeto
-- [ ] Escala de bembros da equipe em projetos
-- [ ] Monitoramento de atividade e pontuação na qualidade de codigo
-- [ ] Gestão de Documentos armazenado no OneDriver utilizado posteriormente na IA.
-- [ ] Relatorio de resolução da tarefas com base na solução aplicada na issue
-- [ ] Envio de Email para os envolvidos os StackHolders
-- [ ] Rank de Qualidade de codigo para cada desenvolvedor no projeto
-- [ ] Geração conologica das tarefas realizadas como relatorio de release
+- [ ] Criação de *issues* no GitHub com base nas tarefas do ClickUp.
+- [ ] Alteração automática de status das tarefas no ClickUp ao fechar as *issues*.
+- [ ] Designação de membros da equipe para revisar tarefas finalizadas.
+- [ ] Previsão de pontos de *sprint*.
+- [ ] Formulário de satisfação para coletar feedback das entregas.
+- [ ] Escala e alocação de membros em projetos.
+- [ ] Monitoramento de atividade e pontuação de qualidade de código.
+- [ ] Gestão de documentos armazenados no OneDrive, integrados com a IA.
+- [ ] Relatório de resolução de tarefas com base nas soluções aplicadas nas *issues*.
+- [ ] Envio de e-mails automáticos para stakeholders com atualizações importantes.
+- [ ] Ranking de qualidade de código por desenvolvedor.
+- [ ] Geração cronológica de tarefas realizadas para relatórios de **releases**.
 
-## Prototipo
-Telas desenvolvida no Figma, para guiar na implementação em codigo.
+---
+
+## Protótipos
+Os protótipos foram desenvolvidos no Figma para guiar a implementação do sistema.
+
 ### Pessoas
-Gerenciamento de informações de pessoas, como, empresa na qual faz parte, idade, qual a função, telefone e email, entre outras informações que pode ser colocado livremente quando nescessario
-<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Pessoas.png"/>
+Interface para gerenciar informações pessoais, incluindo empresa, idade, função, telefone, e-mail e outros detalhes relevantes.  
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Pessoas.png" alt="Tela Pessoas"/>
 
 ### Organizações
-Tem como ideia poder organizar as informações de uma empresa na qual o usuario estiver lidando, como oque ela faz, qual o setor e qualquer outra informação que achar relevante, tambem realizando os vinculos de pessoas a essas mesmas empresas, criando um ecosistema de contatos.
-<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Organizacao.png">
+Funcionalidade para organizar informações de empresas com as quais o usuário trabalha, como área de atuação e setor. Permite vincular pessoas a essas empresas, criando um ecossistema de contatos.  
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Organizacao.png" alt="Tela Organizações"/>
 
 ### Projetos
-Listagem dos Projetos realizado, podendo buscar por nome ou organização, tendo acesso rapidos como a pagina na qual o projeto está online, GitHub ou ClickUp, tambem tem uma preve descrição gerada por IA sobre oque é o projeto.
-<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Projetos.png"/>
+Lista os projetos em andamento ou finalizados. Permite buscar por nome ou organização, com acessos rápidos para páginas do projeto online, GitHub e ClickUp. Inclui uma descrição resumida gerada por IA sobre cada projeto.  
+<img src="https://raw.githubusercontent.com/feiticeiro-tec/desk-master/refs/heads/main/screens/Projetos.png" alt="Tela Projetos"/>
