@@ -1,3 +1,6 @@
 [submodule "desk-master-front"]
 	path = desk-master-front
 	url = https://github.com/feiticeiro-tec/desk-master-front.git
+[submodule "desk-master-api"]
+	path = desk-master-api
+	url = https://github.com/feiticeiro-tec/desk-master-api.git
