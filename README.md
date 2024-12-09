@@ -36,6 +36,7 @@ A aplicação foi idealizada para melhorar o **workflow** de projetos, concilian
 - [ ] Envio de e-mails automáticos para stakeholders com atualizações importantes.
 - [ ] Ranking de qualidade de código por desenvolvedor.
 - [ ] Geração cronológica de tarefas realizadas para relatórios de **releases**.
+- [ ] Certificado de colaboração.
 
 ---
 
